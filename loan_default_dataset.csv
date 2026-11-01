@@ -1,0 +1,1001 @@
+age	income	loan_amount	credit_score	employment_type	education	housing_type	loan_purpose	marital_status	years_employed	default
+24	100830	23070	618		Master	Own	Auto	Single	6.7	0
+55	67288	19031	695	Unemployed	High School	Mortgage	Business	Single	12.3	0
+49	79519	20969	677	Contract	Bachelor	Own	Auto	Married	6	0
+40	63580	24998	673	Contract	Master	Rent	Auto	Married	6.9	0
+40	60740	10715	672	Salaried	High School	Own	Business	Divorced	4.2	0
+58	45513	25903	687	Contract	Bachelor	Own	Personal	Married	7	0
+24	75758	5643	739	Salaried	Bachelor	Mortgage	Personal	Married	10.6	0
+51	43712	20955	776	Self-employed	Bachelor	Own	Auto	Married	4.9	0
+29	81640	19609	680	Salaried	Master	Own	Personal	Single	9.6	1
+25	92132	12453	737	Salaried	High School	Rent	Auto	Single	2.9	0
+44	74163	17796	631			Mortgage	Personal	Married	10.8	0
+63	57844	12397	734	Salaried	Master	Rent	Personal	Married	4.1	0
+53	76349	8355	627	Salaried	High School	Own	Personal	Married	11.3	0
+54	57283	14817	756	Contract	Master	Mortgage	Business	Single	7.3	0
+52	88389	8064	835	Salaried	High School	Rent	Education	Divorced	14.6	0
+55	19215	20905	671	Self-employed	Bachelor	Mortgage	Personal	Single	1.2	0
+43	56610	7649	527	Salaried	High School	Mortgage	Home	Divorced	0	1
+26	18000	24408	642	Self-employed	Bachelor	Rent	Auto	Married	3.9	0
+57	27623	7367	766	Contract	Master	Rent	Business	Married	0.1	0
+40	99097	12903	719	Salaried	Master	Rent	Personal	Married	0.1	0
+43	87380	12379	697	Self-employed	PhD	Rent	Education	Single	10.1	1
+37	47013	29926	751	Contract	Bachelor	Rent	Personal	Married	7	0
+29	27437	20973	714	Contract	Master	Mortgage	Education	Married	4.6	0
+61	18000	16094	765	Salaried	Bachelor	Rent	Auto	Married	5.1	0
+55	51413	22488	744	Salaried	Master	Own	Education	Single	4	0
+49	125510	2000	787	Contract	Bachelor	Rent	Personal	Single	15.3	0
+38	75872	17612	705	Salaried	Master	Rent	Home	Single	3.3	1
+57	51011	35978	743	Contract	High School	Rent	Auto	Married	0.4	0
+44	76627	19191	659	Salaried	Bachelor	Mortgage	Business	Married	11	0
+40	25976	18611	638	Contract	Master	Rent	Personal	Married	5.9	0
+40	57567	22933	799	Salaried	High School	Own	Auto	Married	17.2	0
+30	67487	26060	695	Salaried	High School	Rent	Business	Married	4.4	1
+25	62847	2000	736	Unemployed	PhD	Rent	Home	Single	11.2	0
+45	84770	2859	689	Contract	Bachelor	Mortgage	Business	Married	12.4	0
+60	73616	19893	639	Contract	High School	Rent	Education	Single	4.4	0
+23	81708	11566		Unemployed	Bachelor	Rent	Business	Single	3.3	0
+58	47791	29808	781	Salaried	Bachelor	Rent	Business	Single	10.7	1
+57	87445	15163	719	Salaried	Bachelor	Rent	Personal	Single	9.9	0
+33	105723	2000	560	Salaried	Master	Own	Personal	Single	0	0
+48	40746	6588	665	Salaried	PhD	Mortgage	Personal	Married	1.4	0
+28	42808	2000	805	Salaried	Bachelor	Mortgage	Education	Single	0	1
+54	98395	15893	665	Unemployed	Bachelor	Rent	Home	Single	10	0
+51	60216	16305	554	Salaried	Bachelor	Rent	Education	Single	5.7	1
+36	100096	14180	813	Salaried	Master	Own	Auto	Married	6.2	0
+23	53937	27710	728	Salaried	High School	Rent	Personal	Married	0	0
+63	101376	28787	675	Salaried	High School	Rent	Education	Single	1.5	1
+40	68287	16467	654	Salaried	PhD	Rent	Auto	Single	4.6	1
+60	71456	2000	756	Self-employed	Master	Own	Home	Divorced	3.6	0
+50	104118	23556	642	Salaried		Rent	Home	Married	7.6	0
+55	55956	22998	760	Self-employed	Bachelor	Own	Business	Married	9.9	0
+54	41472	20785	718	Contract	Bachelor	Rent	Business	Married	18.3	0
+29	53786	26833	697	Self-employed	Bachelor	Rent	Business	Married	6.9	0
+37	76308	7517	690	Self-employed	Bachelor	Own	Education	Married	12.6	0
+41	25856	36079	668	Salaried	High School	Rent	Auto	Single	2.9	1
+42	80937	9365	753	Salaried	Bachelor	Mortgage	Personal	Married	0	0
+22	51531	24743	619	Salaried	Bachelor	Rent	Education	Single	5.2	0
+45	93695	2814	566	Unemployed	Bachelor	Own	Personal	Married	0	0
+27	18000	9628	723	Self-employed	High School	Rent	Personal	Single	7.1	0
+53	45336	31647	724	Salaried	Master	Rent	Auto	Single	3.1	1
+51	22838	15652	714	Salaried	Bachelor	Rent	Auto	Divorced	0	0
+61	44344	25559	709	Contract	Master	Rent	Education	Married	15.7	0
+53	71192	20133	658	Self-employed	High School	Own	Business	Single	4.3	0
+37	60519	17055	735	Self-employed	Bachelor	Rent	Business	Divorced	0	1
+63	58666	30275	677	Contract	Master	Rent	Business	Single	11.5	0
+39	61020	15870	646	Self-employed	Bachelor	Mortgage	Personal	Married	3.4	1
+35		2000	658	Self-employed	High School	Own	Education	Married	12.5	0
+60	39787	10771	821	Salaried	Bachelor	Rent	Personal	Single	3.3	0
+37	82671	22961	559	Salaried	Bachelor	Rent	Education	Married	4.3	0
+24	81567	21560	715	Unemployed	Bachelor	Own	Business	Married	8.7	0
+41	74626	3896	562	Self-employed	Bachelor	Rent	Education	Single	10	0
+56	78913	11481	672	Salaried	Bachelor	Own	Auto	Married	10.8	0
+29	72410	12765	650	Self-employed	Bachelor	Own	Home	Single	6.6	0
+41	115877	14711	534	Salaried	High School	Rent	Home	Married	9.6	0
+26	62823	5617	707	Contract	Bachelor	Own	Education	Single	10.7	0
+51	57323	12345	653	Salaried	Bachelor	Rent	Auto	Single	8	1
+41	46162	11443	533	Contract	High School	Own	Home	Married	6.3	0
+35	39193	24944	739	Salaried	High School	Rent	Business	Single	0	1
+30	33888	25282	780	Salaried	High School	Rent	Home	Married	10	0
+45	42780	16688	784	Salaried	High School	Mortgage	Business	Married	7.2	0
+50	63233	14472	705	Contract	Bachelor	Mortgage	Education	Married	4.9	0
+62	73357	19259	683	Salaried	High School	Rent	Education	Single	13.4	0
+40	66279	10651	773	Salaried	Bachelor	Rent	Home	Married	0	0
+28	45862	7679	798	Self-employed	PhD	Own	Business	Married	15.2	0
+57	87505	9538	759	Salaried	Master	Rent	Personal	Single	6.9	0
+48	83485	12287	614	Salaried	High School	Own	Home	Married	8.6	0
+51	61009	7529	694	Salaried	Bachelor	Rent	Home	Married	5	0
+25	48677	19459	711	Contract	Bachelor	Own	Personal	Married	0	0
+34	78711	24567	553	Salaried	Master	Mortgage	Business	Married	6.3	1
+54	69699	3716	713	Salaried	Master	Rent	Home	Married	8.7	0
+57	28797	18226	839	Salaried		Rent	Education	Divorced	10.4	0
+40	63300	16021	725	Salaried	High School	Rent	Auto	Married	6	0
+56	71551	21074	783	Salaried	Bachelor	Own	Home	Married	0	0
+58	42508	17884	693	Salaried	Master	Own	Education	Married	0	0
+38	69746	4918	675	Salaried	Master	Mortgage	Home	Married	17.3	0
+60	28629	6638	707	Salaried	High School	Mortgage	Auto	Divorced	1.5	0
+33	98405	18265	623	Contract	Bachelor	Own	Personal	Single	14.1	1
+31	96199	27259	613	Salaried	High School	Rent	Auto	Single	2.3	1
+51	58687	2000	769	Salaried	Bachelor	Rent	Education	Married	6.1	0
+49	74086	21112	776	Contract	Master	Own	Auto	Married	10.1	0
+27	18000	28707	611	Contract	Bachelor	Rent	Auto	Married	2.9	0
+57	36091	16623	748	Self-employed	High School	Own	Home	Married	15	0
+29	57656	22952	674	Salaried	Bachelor	Own	Home	Divorced	7.4	0
+56	38197	11672	704	Salaried	Bachelor	Rent	Home	Single	9.3	0
+21	82860	16926	712	Salaried	Master	Own	Business	Married	5.7	0
+56	114932	3412	750	Salaried	Bachelor	Mortgage	Personal	Single	10.3	1
+55	35585	2000	686	Salaried	Master	Rent	Home	Married	14.9	0
+55	44063	26485	779	Self-employed	Bachelor	Mortgage	Education	Single	6.3	1
+50	70886	9135	702	Salaried	High School	Rent	Auto	Married	15.6	0
+41	105278	13900	724	Self-employed	Bachelor	Mortgage	Home	Married	3.9	0
+52	34441	5522	622	Salaried	High School	Rent	Business	Married	10.8	1
+33	71226	5310	831	Salaried	Bachelor	Rent	Business	Married	9.4	0
+55	110532	16435	713	Contract	Bachelor	Rent	Education	Single	1.7	0
+45	23706	11434	730	Contract	High School	Mortgage	Home	Single	8.1	0
+41	32973	21402	567	Salaried	High School	Own	Education	Single	7	0
+43	54410	22073		Self-employed	High School	Rent	Auto	Divorced	2.7	0
+46	51985	20888	767	Salaried	High School	Mortgage	Business	Divorced	8.8	0
+22	85315	20147	700	Salaried		Rent	Education	Single	7.7	0
+27	71041	32200	546	Self-employed	Master	Mortgage	Education	Single	6.6	0
+31	20626	8392	753	Salaried	High School	Rent	Education	Married	6.7	0
+26	77885	17506	642	Salaried	Master	Own	Home	Married	6.5	0
+40	50562	28194	779	Salaried	Master	Rent	Home	Single	5.2	0
+50	96861	29381	674	Salaried	PhD	Rent	Auto	Single	7.7	0
+49	49310	5204	694	Salaried	Bachelor	Own	Personal	Single	3.8	1
+41	49085	15189	763	Salaried		Own	Home	Single	20.3	0
+58	78528	30223	617	Unemployed	Bachelor	Own	Education	Single	0	1
+45	84073	22573	611	Self-employed		Mortgage	Business	Single	4.1	0
+24	76202	19757	666	Salaried	Master	Mortgage	Business	Married	4.5	1
+54	22860	16041	738	Salaried	Bachelor	Rent	Personal	Married	17.2	0
+46	78451	14546	587	Self-employed	High School	Own	Auto	Single	0.4	0
+48		20594	563	Salaried	Master	Rent	Auto	Married	9.1	0
+45	70882	15729	738	Salaried	Master	Mortgage	Education	Married	8.2	0
+45		17617	638	Self-employed	Bachelor	Rent	Education	Married	8.7	1
+24	76158	18707	653	Salaried	Bachelor	Own	Education	Divorced	13.2	0
+45	44835	11897	550	Salaried	Bachelor	Own	Personal	Single	13.1	0
+55	32934	22789	632	Salaried	Bachelor	Mortgage	Personal	Married	4.7	0
+34	82846	44228	679	Salaried	Bachelor	Mortgage	Personal	Married	8	0
+47	71041	2007	745	Salaried	Master	Own	Personal	Married	0	0
+22	49651	20916	626	Contract	PhD	Mortgage	Home	Single	7.5	1
+36	101279	11158		Salaried	Bachelor	Own	Personal	Single	3	1
+40	53984	23197	632	Self-employed	Bachelor	Own	Business	Single	6.1	1
+64	65803	18419	632	Self-employed	Bachelor	Mortgage	Personal	Divorced	0	0
+30	71723	24857	788	Salaried	High School	Rent	Auto	Married	9	1
+33	49508	28580	695	Salaried	Bachelor	Rent	Education	Single	0	0
+38	76778	19732	641	Salaried	High School	Mortgage	Personal	Married	7.7	0
+64	51664	28188	669	Self-employed	Bachelor	Mortgage	Auto	Single	0.9	1
+58	54709	2000	775	Salaried	High School	Own	Education	Single	2.8	0
+22	99066	32314	783	Self-employed	Bachelor	Rent	Auto	Married	12.8	0
+31	38985	21376	623	Contract	Master	Mortgage	Home	Married	9.9	1
+57	18000	27701	677	Self-employed	High School	Rent	Business	Married	12.7	1
+23	105273	7021	686	Unemployed	Bachelor	Mortgage	Personal	Married	14.8	0
+58	128733	10523	611	Self-employed	Master	Rent	Education	Married	3.1	0
+33	54868	19313	676	Contract	Bachelor	Own	Personal	Married	14.5	0
+61	18000	17847	680	Contract	High School	Own	Home	Single	0	1
+33	57238	20548	760	Self-employed	Bachelor	Mortgage	Education	Married	10.7	0
+40	57844	27761	765	Contract	Bachelor	Mortgage	Personal	Married	4.5	1
+50	60252	2113	657	Unemployed	Bachelor	Own	Home	Single	2.3	0
+26	37165	26764	665	Salaried	High School	Own	Personal	Single	10.1	0
+45	79489	18075	727	Self-employed	Bachelor	Mortgage	Business	Single	11.7	0
+43	78113	16166	639	Salaried	Bachelor	Own	Auto	Single	11.6	0
+55	27640	4760	721	Contract	Bachelor	Own	Education	Married	8.1	0
+64	82480	22527	674	Salaried	Bachelor	Mortgage	Personal	Single	7.7	1
+50	116317	2000	612	Contract		Mortgage	Education	Married	9.6	0
+39	69299	23836	613	Contract	Bachelor	Mortgage	Personal	Single	8.5	0
+38	56567	4571	781	Unemployed	Master	Rent	Personal	Single	9.7	0
+39	61450	18481	669	Salaried	Bachelor	Rent	Home	Single	8	0
+56	80381	16927	795	Self-employed	Bachelor	Mortgage	Home	Single	11.2	0
+35	21733	28526	644	Self-employed	Bachelor	Own	Home	Divorced	0	1
+28	69110	16392	700	Unemployed	Bachelor	Own	Home	Single	6.3	0
+35	55238	11753	847	Contract	Master	Mortgage	Education	Single	0.1	0
+21	111196	13441	606	Self-employed	Bachelor	Rent	Home	Single	8.4	0
+25	60646	29456	547	Self-employed	High School	Mortgage	Business	Single	15.2	1
+24	106697	22827	770	Salaried	Master	Own	Business	Married	4.6	0
+54	37406	14529	622	Unemployed	Master	Mortgage	Home	Married	7.6	0
+52	79681	15872	679	Salaried	Bachelor	Rent	Education	Single	10.8	0
+51	72985	3895	639	Self-employed	High School	Rent	Personal	Married	0	1
+41	43274	21496	699	Contract	High School	Mortgage	Personal	Married	4.4	1
+52	69435	2162	613	Salaried	Bachelor	Rent	Auto	Married	8.8	0
+28	95313	24766	667	Salaried	High School	Rent	Business	Married	0	0
+60	56905	19158	711	Salaried	High School	Rent	Personal	Single	2.1	1
+43	22701	39483	609	Contract	Master	Mortgage	Personal	Married	12.5	1
+62	64561	8099	631	Salaried	Bachelor	Mortgage	Auto	Married	12	0
+27	42439	17076	656	Salaried	High School	Rent	Auto	Married	8.9	1
+42	56441	34185	580	Self-employed	High School	Own	Education	Divorced	11.4	0
+51	62960	28723	650	Salaried	Bachelor	Own	Auto	Married	8.1	1
+42	22359	11734	688	Contract	Bachelor	Mortgage	Business	Single	9.8	1
+40	24609	20016	652	Salaried	Master	Mortgage	Education	Married	5.4	0
+28	77052	18018	661	Salaried	High School	Mortgage	Home	Married	7.6	0
+37	51932	20538	679	Salaried	High School	Own	Auto	Married	3.8	0
+31	18000	11712	634	Salaried	Bachelor	Rent	Personal	Married	13.3	1
+34	84621	17196	728	Salaried	Bachelor	Mortgage	Business	Married	14.6	1
+51	71809	3618	781	Self-employed	Bachelor	Mortgage	Auto	Married	13.9	0
+48	47153	19216	647	Salaried	Master	Own	Personal	Married	5	0
+47	32079	22050	714	Salaried	Bachelor	Rent	Education	Single	2.2	1
+36	85895	15953	663	Salaried	Bachelor	Own	Auto	Married	13.4	1
+63	73734	3465	706	Salaried	PhD	Rent	Auto	Divorced	9.7	0
+24	124565	26897	790	Unemployed	High School	Own	Education	Married	8.6	0
+36	75505	21281	716	Salaried	Master	Own	Personal	Single	3.8	0
+26	74693	11466	556	Unemployed	Bachelor	Own	Business	Married	9.1	1
+35	60827	15475	712	Salaried	Bachelor	Mortgage	Education	Married	1.6	0
+63	85419	4494	766	Salaried	Master	Rent	Home	Married	10.2	0
+37	80627	8771	664	Salaried	Bachelor	Mortgage	Business	Single	13.9	1
+60	96293	13160	750	Salaried	Bachelor	Rent	Business	Married	15.2	1
+42	51967	29056	632	Contract	Bachelor	Rent	Business	Single	10.5	0
+51	54115	12244	576	Salaried	Bachelor	Rent	Education	Single	0.1	1
+41	53022	23762	690	Salaried	Bachelor	Rent	Personal	Married	8	0
+32	84770	13155	557	Self-employed	High School	Rent	Personal	Divorced	17.7	0
+54	102459	20232	663	Self-employed	Master	Rent	Personal	Single	2.7	0
+63	53529	16727	770	Unemployed	Bachelor	Mortgage	Business	Married	6.7	1
+32	54381	25858	546	Unemployed	Bachelor	Mortgage	Business	Divorced	14.1	1
+55	72852	13187	590	Self-employed	High School	Own	Auto	Single	10.1	0
+32	58856	3847	608	Contract	Bachelor	Rent	Home	Single	19.4	0
+52	88801	5562	676	Contract	High School	Own	Home	Married	3.3	0
+55	18000	13213	654	Salaried	High School	Own	Business	Married	2.1	1
+40	44332	6758	778	Self-employed	Bachelor	Rent	Business	Single	13.1	0
+53	45440	21692	747	Salaried	High School	Rent	Home	Married	1	0
+32	18000	13808	715	Self-employed	Bachelor	Rent	Education	Married	6	0
+24	40909	39371	690	Unemployed	Bachelor	Own	Education	Married	6.7	0
+25	42121	2361	708	Salaried	Bachelor	Mortgage	Education	Married	12.2	0
+40	59972	19833	620	Contract	PhD	Mortgage	Personal	Single	10.1	1
+60	92824	7848	740	Unemployed	Master	Rent	Auto	Single	9.3	0
+26	58873	13559	602	Salaried	Bachelor	Mortgage	Auto	Single	5	0
+41	39230	19273	738	Salaried	PhD	Own	Auto	Divorced	13.1	0
+51	63576	2000	763	Unemployed	Master	Rent	Personal	Divorced	27.1	0
+29		20131	695	Unemployed	Bachelor	Mortgage	Personal	Married	10.5	0
+52	40601	35126	668	Salaried	Master	Mortgage	Home	Single	7.5	0
+34	42236	13919	708	Salaried	High School	Mortgage	Home	Married	0.5	0
+56	78964	20338	480	Self-employed	Bachelor	Rent	Education	Single	3.8	1
+46	59462	27224	701	Salaried	Bachelor	Mortgage	Auto	Single	5.9	1
+45	81187	16524	672	Salaried	High School	Rent	Business	Single	4.3	1
+28	64659	12771	676	Salaried		Own	Business	Married	6.9	0
+41	82542	2000	729	Salaried	PhD	Own	Personal	Single	15.9	0
+58	39123	23769	675	Self-employed	Bachelor	Mortgage	Home	Married	13.2	0
+21	64698	16981		Self-employed	High School	Rent	Home	Divorced	6.2	0
+54	59733	8886	670	Self-employed	High School	Rent	Auto	Married	1	0
+42	34603	19139	685	Contract	Bachelor	Mortgage	Auto	Single	13.7	0
+52	25913	12747	688	Salaried	Master	Rent	Personal	Divorced	6.8	0
+50	82144	13244	691	Salaried	Master	Rent	Home	Married	0	1
+40	56226	23457	753	Salaried	Bachelor	Rent	Business	Married	10.6	1
+34	39443	5955	604	Salaried	High School	Rent	Auto	Married	12.1	0
+48	62596	27426	692	Salaried	High School	Mortgage	Auto	Married	0	1
+27	93200	5421	770	Salaried	Bachelor	Rent	Home	Married	2.9	0
+46	18000	12036	559	Salaried	Master	Rent	Business	Married	6.4	0
+25	27584	35307	693	Salaried	Master	Rent	Auto	Married	10.7	0
+49	41928	28146	639	Self-employed	Bachelor	Rent	Education	Single	4.4	0
+48	101529	18878	654	Self-employed	Bachelor	Mortgage	Education	Married	2.8	0
+24	72065	9535	617	Unemployed	Bachelor	Own	Education	Single	10.6	0
+54	84183	13237	668	Contract	Bachelor	Mortgage	Home	Single	4.7	0
+39	36496	18659	809	Self-employed	Bachelor	Rent	Business	Single	9.7	0
+55	37012	18338	591	Salaried	Bachelor	Own	Business	Single	1.4	1
+22	76195	17182	598	Self-employed	Bachelor	Rent	Business	Single	0.2	1
+28	66457	17723	589	Salaried	Master	Rent	Education	Married	10.8	0
+42	78718	16071	801	Salaried	Bachelor	Rent	Auto	Single	8.3	0
+29	60308	5022	648	Salaried	High School	Mortgage	Auto	Single	11.6	0
+35	71954	13351	678	Salaried	High School	Rent	Auto	Married	4.3	0
+50	68953	26232	652	Salaried	Bachelor	Own	Auto	Divorced	3	0
+27	84444	5685	614	Self-employed	Bachelor	Rent	Auto	Married	13.8	0
+50	85175	16294	664	Contract	Bachelor	Rent	Personal	Single	0	1
+25	24503	10622	850	Self-employed	Master	Rent	Home	Single	13.3	0
+28	18000	19002	777	Self-employed	Bachelor	Mortgage	Home	Single	13.6	0
+46	90044	14502	620	Salaried	Bachelor	Rent	Business	Single	11.3	0
+55	94693	31297	725	Salaried	Master	Own	Business	Divorced	3.6	0
+28	39484	22559	622	Self-employed	Bachelor	Rent	Business	Married	2.9	1
+34	18504	6194	556	Salaried	Bachelor	Own	Education	Single	5.9	0
+61	67476	24041	751	Salaried	High School	Rent	Auto	Divorced	0.5	1
+64	88271	11028	761	Salaried	Bachelor	Own	Home	Married	2.2	0
+46	109940	12807	753	Unemployed	Master	Rent	Education	Single	10.2	0
+40	77907	20824	647	Self-employed	Master	Mortgage	Personal	Married	10.2	0
+36	55707	13574	668	Salaried	Bachelor	Rent	Education	Single	1.8	0
+47	42672	26036	732	Self-employed	Bachelor	Own	Auto	Married	10.4	1
+47	65286	11029	707	Salaried	Bachelor	Rent	Home	Single	9.3	0
+33	57518	12429	652	Salaried	Master	Rent	Auto	Married	14.5	0
+22	39623	12093	567	Salaried	Bachelor	Rent	Personal	Single	9.8	1
+27	116219	12909	688	Salaried	Master	Own	Auto	Divorced	12.3	0
+63	109629	27893	756	Self-employed	High School	Mortgage	Auto	Married	9.4	0
+39	93401	23659	596	Salaried	High School	Rent	Business	Married	11.9	1
+42	41979	33389	725	Contract	High School	Rent	Education	Single	0.6	1
+41	86375	38409	703	Salaried	High School	Own	Education	Divorced	6.4	0
+55	80991	8724	733	Self-employed	Master	Rent	Personal	Married	6.8	1
+23	76064	18634	741	Self-employed	Bachelor	Rent	Auto	Single	5.8	0
+24	96242	7414	631	Self-employed	Bachelor	Own	Business	Married	9.2	0
+33	80884	11002	567		Bachelor	Rent	Home	Single	10.2	0
+42	83500	12329	643	Unemployed	Bachelor	Rent	Home	Single	9	0
+50	80923	8486	742	Salaried	Bachelor	Mortgage	Education	Married	6.1	0
+42	73520	8533	642	Self-employed		Mortgage	Auto	Single	3.3	0
+40	20410	16701	631	Self-employed	Bachelor	Own	Business	Married	12.5	0
+62	67091	7050	553	Salaried	High School	Own	Auto	Single	8.7	1
+28	51095	25579	803	Salaried	Master	Mortgage	Auto	Single	1.9	0
+46	33004	9740	738	Salaried	High School	Mortgage	Home	Single	6	0
+44	107045	43286	734	Salaried	Master	Mortgage	Auto	Single	0	1
+41	108225	13938	748	Salaried		Own	Auto	Divorced	7.2	0
+56	98981	18648	720	Salaried	High School	Own	Auto	Married	6	0
+32	71380	6342	663	Self-employed	High School	Own	Personal	Married	4.1	1
+62	98766	33355	669	Salaried	Master	Mortgage	Auto	Single	14.9	0
+35	65301	28076	650	Contract	Bachelor	Rent	Home	Married	1.2	1
+44	70070	20672	850	Salaried	Bachelor	Rent	Home	Single	10.5	1
+43	37663	5879	719		High School	Rent	Home	Single	17.9	0
+58	74925	19896	648	Salaried	Bachelor	Own	Personal	Married	12.4	0
+40	66510	7907	713	Salaried	Bachelor	Rent	Business	Married	6.8	1
+33	32434	31161	609	Salaried	Master	Own	Business	Married	1.3	1
+21	63720	25283	785	Self-employed		Rent	Education	Married	0.2	0
+37	63007	18859		Salaried	Master	Rent	Home	Married	4.9	0
+57	109939	2000	715	Unemployed	Bachelor	Rent	Personal	Single	3.6	0
+21	87355	9149	755	Salaried	High School	Rent	Home	Single	3.4	0
+60	65286	24190	707	Self-employed	Bachelor	Mortgage	Personal	Single	5.4	0
+44	71220	28916	687	Salaried	High School	Rent	Education	Married	6.5	1
+27	66105	27983	681	Self-employed	Bachelor	Own	Business	Divorced	9.4	0
+34	59927	3672	676	Salaried	Bachelor	Own	Personal	Divorced	0.8	0
+45	37939	20714	640	Salaried	Bachelor	Rent	Personal	Single	3.6	0
+34	61224	27140	649	Salaried	High School	Own	Auto	Married	6.2	1
+25	46348	3075	784	Salaried	Bachelor	Own	Business	Married	6	0
+50	33742	17929	672	Salaried	Bachelor	Own	Auto	Married	16.2	0
+50	77781	20465	625	Unemployed	Bachelor	Own	Personal	Married	8.2	1
+26	74782	15293	644	Salaried	Bachelor	Rent	Education	Single	0	1
+33	20332	2000	757	Salaried	High School	Rent	Auto	Single	9.1	0
+31	61933	15069	727	Unemployed	Bachelor	Own	Business	Divorced	9.7	0
+50	89893	15054	719	Salaried	Bachelor	Rent	Education	Married	6.4	0
+53	91481	16667	662	Salaried	Bachelor	Own	Home	Single	0.9	0
+52	90646	12929	720	Self-employed	High School	Rent	Education	Single	15.8	0
+62	65973	14013	635	Contract	Bachelor	Own	Education	Single	1.7	1
+54	43874	17643	662	Self-employed	Bachelor	Mortgage	Auto	Divorced	10.3	1
+35	37908	21982	748	Salaried	Bachelor	Mortgage	Home	Single	8	0
+25	73615	15260	741	Unemployed	Master	Rent	Home	Single	10	0
+48	74482	14313	611	Salaried	Master	Own	Education	Married	15.5	0
+61	97183	18831	620	Unemployed	High School	Own	Auto	Married	9.8	0
+63	92499	2000	688		Bachelor	Own	Home	Single	4.2	0
+31	61694	22293	801	Unemployed	Bachelor	Mortgage	Education	Single	12.5	0
+31	33895	17995	546	Salaried	PhD	Own	Education	Single	3.8	0
+22	57022	18357	699	Salaried	High School	Mortgage	Home	Single	7.8	0
+27	70431	26647	584	Self-employed	Bachelor	Rent	Education	Single	0.5	1
+45	59948	2000	636	Salaried	Bachelor	Rent	Education	Single	1.8	1
+45	50553	2000	654	Salaried	Bachelor	Mortgage	Home	Married	7.3	0
+37	71322	20464	651	Unemployed	Bachelor	Own	Personal	Married	8.8	0
+34	52401	17936	643	Self-employed	Bachelor	Mortgage	Home	Married	0	0
+57	49298	19532	681	Salaried	High School	Own	Auto	Single	9.5	0
+41	72786	13841	643	Salaried	Bachelor	Mortgage	Personal	Single	2.9	1
+56	54950	23979	578	Salaried	Master	Rent	Business	Divorced	13.4	1
+63	71103	26394	735	Salaried	Master	Own	Auto	Married	5.2	0
+34	71830	22356	733	Salaried	Bachelor	Mortgage	Auto	Married	1.4	0
+29	36514	15653	739	Contract	Bachelor	Own	Personal	Single	7.4	1
+62	52969	2000	572		High School	Own	Business	Single	2.4	0
+48	100944	24923	701	Salaried	Master	Mortgage	Education	Married	13.3	1
+33	35948	28996	727	Salaried	Master	Rent	Personal	Married	7	0
+48	18000	23801	608	Self-employed	Bachelor	Mortgage	Auto	Single	6.2	0
+43	18454	10083	681	Contract	Master	Rent	Home	Divorced	10	0
+60	65728	24064	672	Contract	High School	Rent	Personal	Married	2	0
+32	65773	25745	809	Salaried	Bachelor	Own	Business	Married	0.6	0
+64	62060	32029	815	Contract	High School	Own	Home	Single	9	0
+62	95355	10115	563	Salaried	High School	Mortgage	Home	Married	1.5	0
+28	18000	15962	850	Salaried	Bachelor	Own	Business	Married	1.5	0
+28	74898	24725	616	Contract	Bachelor	Rent	Auto	Single	11.2	1
+44	104036	18517	749	Salaried	Master	Own	Education	Married	9.6	0
+22	36805	7944	748	Salaried	Bachelor	Own	Personal	Married	0.7	0
+34	55505	21732	610	Salaried	Master	Rent	Education	Married	3.9	0
+40	46178	23208	715	Salaried	Master	Mortgage	Education	Single	2.5	0
+63	42641	18792	672	Salaried	Bachelor	Mortgage	Education	Married	15.9	0
+64	56843	19976	719		Master	Mortgage	Auto	Married	11.5	0
+27	100687	15672	696	Salaried	Bachelor	Own	Home	Single	4.9	0
+60	110935	31305	764	Salaried	Bachelor	Rent	Education	Single	9.9	0
+25	56602	9894	685	Contract	High School	Own	Education	Single	0.2	1
+53	112627	12714	668	Salaried	Bachelor	Rent	Home	Single	3.6	0
+58	65889	18099	757	Unemployed	Master	Rent	Personal	Married	7.5	0
+60	108842	25911	721	Salaried	Bachelor	Rent	Home	Married	9.3	0
+30	62668	4524	731	Self-employed	Bachelor	Own	Business	Single	6.5	1
+60	68276	6207	633	Salaried	High School	Mortgage	Home	Divorced	8.2	0
+26	74137	2000	607	Contract	Bachelor	Mortgage	Education	Single	7.4	0
+43	144471	18294	640	Salaried	Master	Mortgage	Home	Married	6.2	0
+41	86282	7935	637	Contract	Bachelor	Own	Education	Divorced	5.5	0
+34	47318	14539	735	Salaried	Master	Mortgage	Personal	Married	4.9	0
+21	89225	23952	748	Self-employed	Bachelor	Own	Home	Married	8.2	0
+54	55954	12226	669		Master	Rent	Auto	Married	9.1	0
+35	52756	20082	780	Salaried	Bachelor	Own	Personal	Single	8	0
+50	87715	15306	776	Salaried	Bachelor	Own	Auto	Single	1.1	1
+39		24049	697	Salaried	High School	Rent	Home	Married	2	0
+37	71964	22276	622	Salaried		Own	Personal	Single	9	1
+59	65350	11773	790	Self-employed	Master	Rent	Home	Single	14.4	0
+25	73415	16482	676	Salaried	Bachelor	Rent	Home	Single	7.8	0
+53	75624	27394	689	Salaried	High School	Mortgage	Auto	Divorced	4.9	0
+53	18000	21540	656	Salaried	Master	Rent	Education	Married	8.1	0
+37	81664	5427	618	Salaried	High School	Rent	Home	Married	1.3	0
+32	40450	23901	577	Salaried	Bachelor	Own	Personal	Married	13.5	1
+21	28943	8239	724	Self-employed	PhD	Mortgage	Auto	Single	7.9	1
+62	63540	30713	625	Salaried	Bachelor	Own	Business	Single	3.7	1
+62	67100	27217	850	Contract	Master	Own	Auto	Married	6.2	0
+31	47662	20609	604	Salaried		Own	Auto	Married	4.4	0
+22	85776	19415	592	Salaried	Master	Rent	Business	Single	13.6	0
+26	31446	16119	716	Contract	Bachelor	Rent	Home	Married	6	1
+23	54826	24107	787	Salaried	Bachelor	Rent	Education	Married	7.8	0
+57	50378	14663	685	Salaried	High School	Rent	Personal	Single	9.9	0
+60	63835	20120	720	Unemployed	Master	Rent	Education	Single	3.3	1
+27	71972	25847	551	Unemployed	High School	Rent	Business	Single	8	1
+53	39803	12944	633	Self-employed	PhD	Own	Education	Married	8.4	0
+28	83107	12454		Salaried	High School	Rent	Auto	Divorced	0	1
+37	66575	7251	547	Self-employed	High School	Rent	Business	Married	8.3	0
+47	18000	8420	688	Unemployed	Master	Rent	Education	Married	6.8	0
+52	18000	2000	523	Unemployed	High School	Own	Business	Married	7.6	1
+59	64692	24568	587	Salaried	Bachelor	Rent	Home	Single	7.2	0
+22	59476	34280	642	Salaried	Master	Rent	Education	Married	8.3	1
+29	62414	30828	622	Salaried	High School	Own	Auto	Married	13.7	0
+33	64300	3365	708	Salaried	High School	Own	Auto	Married	1.1	0
+34	70639	24524	701	Self-employed	Bachelor	Rent	Business	Single	5.3	0
+64	88691	30799	743	Salaried	High School	Rent	Business	Divorced	10.3	0
+55	37222	13889	733	Salaried	High School	Rent	Personal	Divorced	9.4	1
+35	35701	18913	760	Salaried	High School	Own	Personal	Single	9.3	0
+63	37667	2000	680	Salaried	Bachelor	Mortgage	Education	Single	20.8	1
+42	72223	20401	701	Salaried	Bachelor	Own	Business	Single	10.1	0
+43	96124	8428	716	Salaried	High School	Rent	Personal	Married	12.7	0
+40	54217	19797	690	Salaried	Bachelor	Mortgage	Home	Married	5.5	0
+27	18000	3949	652	Unemployed	Bachelor	Rent	Business	Single	2	0
+62	22400	22886	657	Salaried	High School	Own	Education	Married	5.4	0
+21	44174	27221	623	Salaried	Bachelor	Rent	Auto	Single	10.6	1
+28	51057	10951	710	Salaried	Master	Mortgage	Auto	Married	9	1
+31	54790	7768	673	Salaried	Bachelor	Mortgage	Business	Single	9	0
+33	65965	2000	634	Salaried	Bachelor	Own	Education	Married	5.9	1
+26	57206	15602	634	Salaried	Bachelor	Mortgage	Education	Married	5.1	1
+21	91233	12766	595	Salaried	High School	Rent	Home	Single	6.1	0
+50	48100	4041	749	Salaried	Master	Own	Education	Married	10.6	0
+63	43442	22077	686	Self-employed	Master	Rent	Home	Divorced	11.2	0
+26	76972	13950	620	Salaried	Master	Rent	Auto	Married	2	0
+34	26609	8318	737	Salaried	High School	Rent	Business	Divorced	10.8	0
+43	74742	13009	641	Self-employed	Bachelor	Mortgage	Auto	Married	3.7	1
+61	67564	27642	582	Salaried	High School	Rent	Business	Married	9.3	0
+51	61314	23426	751	Salaried	Bachelor	Rent	Business	Single	6	0
+54	104707	16830	642	Salaried	Bachelor	Rent	Home	Married	14.8	0
+46	49445	23572	651	Salaried	Bachelor	Own	Auto	Single	4.9	0
+39	116507	7552	683	Salaried	High School	Rent	Auto	Single	7.9	0
+29	59364	18291	760	Unemployed	Master	Mortgage	Education	Single	10	0
+59	33075	19326	681	Unemployed	High School	Rent	Business	Single	2.6	0
+56	66748	13771	596	Unemployed	High School	Own	Education	Divorced	6.6	1
+22	38094	21919	718	Salaried	Master	Rent	Home	Divorced	5.7	0
+52	46206	10976	646	Salaried	Master	Mortgage	Auto	Married	4.4	1
+24	74926	22588	812	Salaried	Bachelor	Mortgage	Education	Single	4.8	0
+53	78890	22967	680	Salaried	Bachelor	Rent	Education	Married	12.6	0
+57	49446	2000	524	Salaried	High School	Rent	Auto	Married	4	0
+26	89685	28713	705	Salaried	High School	Rent	Personal	Single	9.8	0
+40	93938	2000	816		Bachelor	Mortgage	Education	Married	8.6	0
+26	100908	12456	790	Salaried	Bachelor	Mortgage	Education	Married	0	0
+45	78235	27228	808		Bachelor	Mortgage	Home	Single	9.6	1
+61	99086	15144	609	Self-employed	High School	Rent	Education	Married	0	1
+24	18000	4804	744	Salaried	Bachelor	Own	Auto	Married	10.1	0
+38	57052	8156	629		Master	Rent	Personal	Single	4.5	0
+63	43325	27242	696	Salaried	High School	Own	Education	Married	7	0
+34	67981	2000	591	Salaried	High School	Own	Home	Married	0.5	1
+26	50714	28161	635	Salaried	Bachelor	Rent	Auto	Married	7.6	1
+42	60846	17504	633	Salaried	Master	Rent	Personal	Divorced	11.6	0
+43	112054	7268	743	Salaried	Bachelor	Mortgage	Home	Married	3	0
+50	60757	12752	736	Salaried	Master	Mortgage	Auto	Married	4	0
+34	75345	8845	699	Self-employed	Bachelor	Mortgage	Home	Married	9.3	0
+63	59193	25796	585	Salaried	High School	Mortgage	Auto	Married	9.4	0
+43	66893	24592	658	Salaried	Bachelor	Rent	Personal	Married	0	0
+33	65150	2528	628	Unemployed	High School	Own	Personal	Single	17.1	1
+63	76208	14368		Salaried	Master	Rent	Personal	Married	9.6	0
+61	94133	10231	762	Self-employed	High School	Own	Personal	Married	10.5	0
+42	106185	29642	754	Salaried	Bachelor	Own	Education	Married	6.3	0
+22	72741	5849	627	Salaried	Bachelor	Own	Business	Married	0	1
+47	79739	32438	488	Salaried	Bachelor	Mortgage	Education	Married	10.4	1
+45	36228	17700	556	Salaried	Bachelor	Rent	Education	Single	4.2	0
+27	62803	7543	780	Self-employed	Bachelor	Mortgage	Personal	Single	9.7	0
+48	88507	11905	652	Salaried	Master	Mortgage	Education	Single	5.9	1
+57	86649	10785	627	Salaried	Master	Mortgage	Home	Single	8.2	0
+25	70290	6528	795	Salaried	Master	Own	Personal	Married	3.1	0
+52	87160	18853	769	Contract	Bachelor	Mortgage	Personal	Single	11.3	0
+27	77269	6949	682	Contract	Bachelor	Mortgage	Auto	Single	1.1	1
+53	95008	2000	659	Unemployed	Bachelor	Mortgage	Home	Single	18.2	1
+39	72234	14583	671	Self-employed	Bachelor	Own	Personal	Married	18.2	0
+21	56108	2000	696	Self-employed	Bachelor	Own	Home	Married	15.2	0
+63	73396	11231	792	Salaried	Bachelor	Mortgage	Auto	Single	13.4	0
+28	18000	9818	710	Contract	High School	Own	Auto	Single	6.6	0
+47	74572	10159	731	Salaried	High School	Rent	Personal	Single	12.8	0
+28	18000	36009	762	Salaried	Master	Rent	Business	Single	6.5	1
+62	21913	18508	598	Self-employed	High School	Own	Home	Single	0	0
+53	76294	20208	733	Salaried	Bachelor	Own	Home	Single	14.5	0
+56	76938	2012	659	Salaried	Bachelor	Mortgage	Auto	Single	12.6	1
+40	35939	12114	504	Salaried	High School	Mortgage	Business	Divorced	6.8	1
+41	47197	19938	531	Salaried	Master	Mortgage	Home	Married	0.9	0
+48	99264	8779	609	Contract	High School	Own	Auto	Married	4.1	0
+55	52899	26173	717	Salaried	Master	Own	Auto	Single	0	0
+58	121073	7176	688	Contract	Master	Rent	Education	Single	11.7	0
+21	64952	15423	693	Salaried	High School	Rent	Personal	Divorced	0	0
+50	75201	12726	817	Self-employed	High School	Own	Education	Single	8.4	0
+25	105422	19479	591	Salaried	Bachelor	Mortgage	Auto	Married	2.8	0
+33	68276	12236	678	Unemployed	Bachelor	Mortgage	Business	Divorced	0	1
+57	39941	15562	701		High School	Rent	Education	Married	8.2	0
+32	62257	15875	628	Salaried	PhD	Rent	Home	Single	5.3	0
+56	64110	11391	682	Salaried	High School	Rent	Business	Married	11.2	0
+41	30881	22366	568	Salaried	Master	Own	Education	Single	0.7	0
+31	58604	20145	779	Salaried	High School	Own	Personal	Single	3.2	0
+35	46445	17202	632	Self-employed	PhD	Rent	Personal	Single	0	0
+44	88109	14126	822	Unemployed	High School	Rent	Auto	Married	0	0
+54	65865	25169	678	Self-employed	Bachelor	Rent	Home	Married	16	1
+47	57930	15877	752	Salaried	Bachelor	Mortgage	Business	Single	17.4	0
+62	62345	15240	676	Salaried	High School	Own	Personal	Single	7.5	0
+59	70578	18942	678	Contract	Master	Own	Auto	Married	2.9	0
+54	80420	33269	639	Contract	Bachelor	Own	Business	Divorced	5.5	1
+47	40007	5937	688	Salaried	Bachelor	Own	Personal	Single	11.4	0
+33	38960	24929	702	Unemployed	Bachelor	Rent	Personal	Single	4.4	0
+39	92617	2000	625	Salaried	Bachelor	Mortgage	Home	Married	8.2	0
+26	54692	19955	671	Contract	High School	Mortgage	Personal	Married	6.9	0
+37	29579	32176	637	Unemployed	High School	Rent	Education	Divorced	4.2	1
+61	76095	22398	841	Self-employed	High School	Rent	Home	Single	4.4	0
+39	76584	19536	674	Salaried	Bachelor	Own	Education	Single	8.5	0
+26	26732	12956	788	Self-employed	High School	Rent	Home	Married	2.1	0
+49	70737	18279	666	Salaried	Master	Rent	Home	Single	9.3	1
+63	83390	15731	698	Contract	Bachelor	Mortgage	Personal	Married	4.6	0
+59	74360	10926	588	Salaried	Bachelor	Rent	Auto	Single	7.6	0
+33	80800	15391	649	Self-employed	Bachelor	Own	Education	Married	13.9	1
+40	29893	19785	695	Contract	Bachelor	Own	Home	Divorced	6.2	1
+44	73276	11095	791	Salaried	Bachelor	Own	Personal	Divorced	11.6	0
+31	57435	10743	696	Salaried	Bachelor	Mortgage	Personal	Married	0	0
+32	52930	5758	777	Self-employed	Bachelor	Own	Auto	Divorced	4.6	0
+31		21517	725	Salaried	Bachelor	Own	Home	Single	7.1	0
+64	101982	22908	794	Salaried	Bachelor	Own	Home	Single	16.6	0
+53	109859	20085	676	Salaried	PhD	Mortgage	Home	Single	0	1
+57	97870	26687	847	Salaried	High School	Rent	Home	Divorced	6.5	0
+56		18791	646	Self-employed	Bachelor	Rent	Business	Divorced	14.3	1
+63	73818	21528	626	Self-employed	High School	Rent	Education	Single	3.1	1
+25	84171	20735	595	Salaried	Bachelor	Own	Personal	Single	5.9	0
+59	68029	17176	843	Salaried	Master	Mortgage	Business	Single	8.7	0
+23	68269	13223	737	Salaried	High School	Own	Business	Single	7.9	0
+41	85594	37927	657	Salaried	Bachelor	Own	Education	Married	14.8	0
+47	63518	13932	767	Self-employed	Bachelor	Rent	Auto	Single	9.2	0
+36	46768	12007	728	Salaried	High School	Own	Auto	Married	13.6	0
+27	54638	21906	818	Salaried	Master	Own	Home	Married	5.2	0
+29	80848	20267	572	Unemployed	Bachelor	Mortgage	Personal	Single	3.3	1
+57	65075	5357	661	Salaried	Master	Rent	Auto	Single	5.9	0
+35	73505	28104	648	Self-employed	Bachelor	Own	Education	Divorced	1.2	0
+34	81752	17152	542	Salaried	Master	Rent	Auto	Married	9.4	0
+61	55629	8002	754	Salaried	Bachelor	Rent	Personal	Married	5.1	1
+27	83906	28699	661	Salaried	Bachelor	Own	Home	Single	3.6	0
+61	74471	23631	732	Self-employed	Master	Own	Personal	Divorced	9.5	0
+61	34130	6619	845	Contract	Bachelor	Rent	Business	Married	1.3	1
+47	101058	33995	655	Salaried	Bachelor	Rent	Personal	Married	10.9	0
+28	52481	23929	651	Salaried	PhD	Mortgage	Personal	Married	4.6	1
+27	23623	17908	688	Salaried	Bachelor	Rent	Home	Married	12.8	0
+33	38874	32312	749	Self-employed	Bachelor	Own	Personal	Single	5	0
+46	39474	19434	640	Self-employed	Bachelor	Rent	Personal	Married	10.2	0
+27	66304	17747	636	Self-employed	Master	Rent	Auto	Single	7.9	0
+41	58154	12057	754	Contract	Master	Own	Auto	Married	10.7	0
+26	56579	23237	707	Salaried	Bachelor	Rent	Personal	Divorced	7.5	0
+44	80493	22289	537	Self-employed	Bachelor	Own	Home	Divorced	0	1
+21	73497	18132	594	Self-employed	High School	Mortgage	Education	Married	12	0
+52	72901	10890	785	Salaried	Bachelor	Mortgage	Personal	Married	6.6	0
+23	75246	19169	708	Contract	Master	Rent	Business	Married	10.9	0
+29	80403	17372	627	Salaried	Bachelor	Mortgage	Education	Divorced	10.5	0
+28	18000	5999	668	Self-employed	High School	Mortgage	Auto	Married	3.1	1
+57	55889	4754	681	Self-employed	Bachelor	Own	Business	Single	2.4	1
+23	18000	23086	732	Contract	Bachelor	Rent	Home	Single	10.3	1
+39		2000	585	Salaried	Master	Rent	Education	Married	5.5	1
+47	64884	19849	621	Salaried	High School	Own	Home	Married	11.7	0
+43	91138	13697	699	Contract	Bachelor	Rent	Education	Married	6.1	0
+50	94691	29774	673	Contract	Master	Own	Personal	Married	12.1	1
+56	70069	13559	720	Salaried	Master	Mortgage	Education	Single	9.1	0
+38	52491	23935	594	Self-employed	High School	Rent	Business	Single	8.4	0
+57	77129	14428	705	Salaried	Master	Mortgage	Business	Married	5.1	1
+34	51802	19024	756	Self-employed	Bachelor	Rent	Business	Single	8.2	0
+64	64965	24632	714	Contract	Master	Own	Personal	Married	13	0
+43	89653	13837	690	Salaried	High School	Mortgage	Personal	Married	6.7	0
+53	51056	26969	673	Salaried	Bachelor	Own	Auto	Married	9.7	0
+59	85142	9057	622	Unemployed	Bachelor	Own	Business	Single	7.2	0
+55	81935	20651	675	Contract	Bachelor	Rent	Home	Married	7.6	1
+58	41130	26304	768	Contract	Bachelor	Rent	Personal	Single	15.6	0
+44	89347	23940	672	Salaried	Bachelor	Rent	Home	Single	13	0
+22	82464	35248	618	Unemployed	Bachelor	Own	Education	Single	7.4	0
+42	67548	11129	646	Salaried	High School	Rent	Education	Single	8.1	0
+28	45942	5588	694	Salaried	Bachelor	Own	Personal	Divorced	3.5	1
+60	43520	9051	654	Salaried	High School	Own	Personal	Divorced	6.1	0
+31	51558	23944	714	Contract	Master	Rent	Home	Single	8.5	1
+31	78565	22481	717	Contract	PhD	Own	Personal	Married	11.3	0
+31	41109	18920	742	Self-employed	Bachelor	Own	Education	Married	10.7	0
+49	75938	7893	780	Self-employed	High School	Rent	Home	Married	1.5	0
+46	33956	24902	750	Salaried	High School	Rent	Auto	Married	11.9	0
+62	59898	6978	615	Salaried	Bachelor	Own	Auto	Married	6.6	0
+39	67741	28431	617	Salaried	Master	Rent	Education	Single	2.1	0
+33	126128	43717	675	Salaried	Bachelor	Own	Education	Single	13.7	1
+23	30567	21298	648	Salaried	High School	Mortgage	Business	Married	14.3	0
+21	101800	23248	600	Contract	High School	Own	Education	Divorced	8.3	1
+37	68746	13564	649	Self-employed	High School	Own	Business	Married	10.5	1
+61	75279	2000	647	Contract	Master	Rent	Business	Single	10.8	1
+44	67959	12576	633	Salaried	Bachelor	Own	Education	Single	14	0
+60	76118	8164	658	Salaried	Bachelor	Own	Auto	Divorced	10.6	0
+25	61158	4977	762	Salaried	Bachelor	Own	Personal	Single	0.4	1
+25	101351	33501	694	Salaried	Master	Rent	Auto	Married	17	0
+57	53588	20456	850	Salaried	Bachelor	Rent	Auto	Married	12.3	0
+25	93306	21417	692	Salaried	Master	Rent	Education	Single	4.5	1
+23	48891	15219	660	Salaried	Master	Mortgage	Home	Single	1.9	0
+38	63494	16444	680	Self-employed	Bachelor	Rent	Home	Single	9.5	1
+61	38201	26681	698	Salaried	Master	Mortgage	Education	Single	5.6	0
+51	76376	17709	710	Salaried	Bachelor	Rent	Personal	Married	8.6	1
+25	101128	22776	825	Salaried	Bachelor	Mortgage	Education	Married	10.7	1
+57	63066	16236	621	Salaried	High School	Rent	Home	Single	4.2	1
+58	60078	14921	740	Salaried	Bachelor	Rent	Education	Married	1.4	1
+56	37135	5338	695	Salaried	High School	Own	Auto	Single	8.9	1
+60	59268	2000	570	Self-employed	High School	Rent	Education	Single	4.3	0
+31	25180	15646	734	Salaried	High School	Own	Education	Married	7.7	1
+64	42178	18508	769	Contract	Bachelor	Rent	Home	Married	0.3	1
+35	70670	6425	620	Salaried	Bachelor	Own	Education	Married	5.7	0
+56	97975	17690	679	Salaried	Bachelor	Own	Education	Single	10.6	0
+46	135230	18484	559	Salaried	Bachelor	Mortgage	Business	Married	10	0
+55	50335	2000	592	Salaried	PhD	Rent	Business	Married	3.1	1
+48	100883	9764	753	Salaried	Master	Rent	Education	Divorced	1.2	0
+49	71094	21665	647	Contract	High School	Rent	Home	Married	7.1	0
+48	61219	21484	602	Salaried	Bachelor	Rent	Home	Divorced	9.8	0
+55	75815	7617	696	Self-employed	Bachelor	Mortgage	Education	Single	9	0
+53	66548	19426	643	Salaried	Master	Rent	Auto	Married	4.4	0
+26	67760	27202	647	Salaried	Bachelor	Rent	Auto	Married	8.5	1
+57	54792	24994	732	Salaried	Master	Rent	Education	Single	14.5	0
+44	30047	17142	599	Salaried	High School	Rent	Education	Married	8	0
+35		13788	617	Salaried	Bachelor	Rent	Education	Married	0	0
+43	81331	12336	691	Unemployed	Master	Mortgage	Auto	Divorced	8	1
+63	58082	22210	748	Self-employed	Bachelor	Rent	Personal	Single	17.2	1
+58	50098	19756	767	Unemployed	Master	Rent	Home	Divorced	0.6	0
+57	65213	23665	633	Salaried	High School	Rent	Auto	Single	7.1	0
+41	84873	19187	746	Contract	High School	Rent	Personal	Married	5.9	0
+55	69509	25369	625	Self-employed	High School	Mortgage	Personal	Married	7.5	0
+37	48599	18851	808	Self-employed	High School	Rent	Auto	Single	8	0
+51	95657	25062	601	Unemployed	High School	Rent	Auto	Divorced	12.7	0
+49	104480	25837	773	Self-employed	Bachelor	Rent	Personal	Divorced	7.4	0
+31	77364	10759	634	Contract	Bachelor	Rent	Education	Divorced	13.4	0
+32	89342	2000	821	Self-employed	Bachelor	Own	Auto	Divorced	6.4	0
+23	96049	31891	721	Salaried	Bachelor	Rent	Education	Married	5.2	0
+27	93252	20310	609	Self-employed	High School	Mortgage	Auto	Married	3.7	0
+40	80352	2570	643	Salaried	Bachelor	Rent	Home	Married	0	0
+42	79959	11576	735	Contract	High School	Own	Education	Single	8.4	0
+28	77992	24947	754	Contract	Master	Rent	Home	Married	17.3	0
+39	37567	15483	675	Salaried	High School	Rent	Education	Married	9.3	1
+47	82518	13391	683	Salaried	Bachelor	Own	Auto	Married	10.4	0
+31	31105	30608		Salaried	Master	Rent	Auto	Single	4.9	0
+35	45135	8574	689	Salaried	Bachelor	Rent	Business	Single	5.8	0
+37	97589	10817	589	Salaried	Bachelor	Mortgage	Home	Single	11.9	1
+43	86006	19902	623	Self-employed	Bachelor	Own	Business	Married	17	1
+37	102185	21514	696	Self-employed	High School	Own	Education	Single	14.4	0
+53	58208	22467	765	Contract	Bachelor	Rent	Personal	Single	11	0
+35	36194	26201	793	Salaried	Master	Own	Personal	Single	7.2	1
+40	58989	19787	735	Salaried	PhD	Rent	Business	Married	8	0
+37	67551	22404	700	Salaried	Bachelor	Mortgage	Home	Single	3.2	1
+29	66975	15667	732	Contract	Bachelor	Own	Business	Married	0	1
+51	93342	18564	633	Salaried	Master	Rent	Home	Single	1.4	0
+31	55968	18968	669	Salaried	Bachelor	Mortgage	Business	Married	7.2	0
+34	73801	19936	622	Salaried	Bachelor	Rent	Personal	Single	5.5	0
+55	40284	24953	593	Contract	High School	Rent	Auto	Married	0	1
+62	76258	22996	703	Salaried	High School	Rent	Education	Married	6.8	1
+50	65078	18398	693	Self-employed	Bachelor	Own	Home	Married	5.4	0
+61	46255	10718	728	Self-employed	High School	Own	Business	Married	1.1	0
+58	59104	18609	718	Self-employed	High School	Rent	Personal	Married	5.1	1
+42	60396	17748	697	Salaried	High School	Rent	Business	Single	5.4	0
+54	58246	19739	719	Salaried	Master	Own	Personal	Married	3.9	0
+35	109284	37859	677	Salaried	High School	Own	Business	Single	11.6	0
+41	62539	13286	709	Salaried	High School	Mortgage	Business	Married	0	1
+44		21801	629	Self-employed	Bachelor	Own	Auto	Married	0	0
+63	18000	27616	706	Salaried	High School	Rent	Personal	Married	7	0
+58	42645	18882	727	Salaried	PhD	Rent	Education	Married	7.5	0
+42	58423	39041	633	Salaried	Master	Rent	Personal	Single	9	0
+49	47854	14598	684	Self-employed	Bachelor	Own	Personal	Single	4.3	0
+29	99543	20917	636	Salaried	Bachelor	Own	Auto	Single	2.4	0
+56		10811		Self-employed	Bachelor	Rent	Personal	Married	7	1
+45	97211	14836	601	Salaried	High School	Rent	Education	Married	4.8	0
+44	66543	20240	769	Unemployed	Bachelor	Own	Personal	Married	14.8	0
+54	65931	25617	755	Self-employed	High School	Rent	Auto	Married	5.4	0
+48	62780	20872	718	Salaried	High School	Rent	Education	Single	6.7	0
+24	65095	29332	818	Salaried	Bachelor	Own	Business	Married	19.4	0
+33	107970	17145	667	Salaried	High School	Rent	Home	Single	6	0
+28	18000	15010	850	Salaried	High School	Own	Personal	Single	9.8	0
+53	18000	42336	664	Salaried	Bachelor	Rent	Education	Married	10.2	0
+22	51421	21548	698	Contract	Bachelor	Own	Education	Single	10.7	0
+29	65363	11525	652	Self-employed	High School	Rent	Home	Single	8.4	0
+47	82253	11752	706	Salaried	High School	Rent	Home	Single	8	0
+51	76827	9516	738	Self-employed		Rent	Home	Married	7.5	0
+43	55394	26429	672	Salaried	High School	Rent	Business	Single	4.1	1
+58	90476	14721	804	Unemployed	Master	Mortgage	Business	Married	8.6	0
+61	90755	19146	697	Salaried	Master	Rent	Auto	Married	17.1	1
+26	69601	17428	699	Self-employed	Bachelor	Mortgage	Home	Single	13.1	1
+62	89066	24583	616	Contract	Bachelor	Own	Business	Single	8.5	0
+48	71816	10379	709	Salaried	Master	Rent	Personal	Married	11.3	1
+48	50963	8320	671	Salaried	Bachelor	Own	Auto	Single	2.7	1
+25	82445	20019	637	Salaried	High School	Rent	Business	Married	5.7	0
+48	67765	23409	626	Contract	High School	Rent	Auto	Married	11.7	0
+52	65033	20993	850	Salaried	Bachelor	Mortgage	Education	Single	14.4	0
+46	101824	10715	662	Self-employed	Bachelor	Rent	Personal	Married	3.1	0
+24	18000	24097	578	Contract	High School	Rent	Auto	Married	4.6	0
+44	29558	11305	631	Contract	Bachelor	Own	Personal	Married	17.9	0
+62	35323	13306	676	Salaried	Bachelor	Own	Personal	Married	7.5	0
+52	55918	9504	718	Salaried	Bachelor	Mortgage	Business	Divorced	16.1	0
+27	58635	29710	719	Self-employed	Bachelor	Own	Education	Married	8	1
+63	27317	23701	727	Salaried	Bachelor	Own	Home	Married	8.2	0
+63	40371	23445	635	Contract	Bachelor	Mortgage	Auto	Married	5.5	1
+28	43479	29225	704	Salaried	High School	Mortgage	Personal	Married	11.7	0
+56	126436	43314	619	Salaried	High School	Rent	Business	Single	13.8	0
+38	110044	2617	637	Contract	Master	Rent	Education	Married	1.8	0
+47	54706	11355	616	Salaried	Bachelor	Mortgage	Personal	Married	5.2	0
+40	55910	12454	597	Salaried	High School	Own	Business	Single	11.6	0
+55	36270	10343	754	Salaried	Bachelor	Rent	Business	Divorced	6.4	0
+64	18000	8302	728	Salaried	Master	Rent	Business	Married	4.5	0
+55	62078	15303	748	Contract	Master	Mortgage	Business	Married	12	0
+61	40054	7051	683	Salaried	Master	Mortgage	Personal	Divorced	12.5	0
+62	62879	21015	734	Salaried	Bachelor	Rent	Education	Single	4.8	0
+24	24995	18465	557	Salaried	Bachelor	Own	Auto	Single	8.1	1
+32	45951	22329	740	Unemployed	Bachelor	Rent	Personal	Single	1	0
+52	68716	22570	692	Salaried	High School	Own	Education	Married	2.5	0
+46	74155	23427	724	Unemployed	Bachelor	Mortgage	Personal	Single	7.6	0
+23	75437	14639	707	Contract	Bachelor	Own	Auto	Divorced	7.2	0
+25	31988	37090	611	Salaried	High School	Own	Personal	Single	2.2	0
+43	86367	20110	575	Contract	Master	Rent	Auto	Single	3.4	0
+48	44995	2000	630	Self-employed	Bachelor	Rent	Personal	Married	1.7	0
+28	80821	8979	720	Salaried	High School	Mortgage	Home	Single	9.3	0
+28	64734	2335	728	Salaried	Bachelor	Own	Personal	Married	0	0
+26		18156	584	Contract	Master	Mortgage	Business	Single	1.9	1
+45	57095	16904	611	Contract	Master	Own	Business	Divorced	0	0
+21	74134	13784	629	Self-employed	Bachelor	Own	Business	Married	9.1	0
+46	80324	36098	655	Unemployed	PhD	Rent	Education	Single	0	1
+41	61475	22941	585	Salaried	Master	Own	Home	Single	7.2	0
+41	103294	24535	580	Contract	Master	Rent	Personal	Single	15.2	0
+50	90188	9620	622	Contract	Master	Own	Home	Divorced	15.4	1
+43	58584	9008	686	Salaried	Bachelor	Own	Education	Married	0	0
+53	83753	18331	597	Salaried	Master	Rent	Personal	Married	8.5	0
+54	113345	19557	672	Salaried	Bachelor	Own	Auto	Single	2.1	0
+61	114012	2000	754	Contract	Master	Rent	Personal	Married	1	0
+56	34300	16377	589	Salaried	High School	Rent	Personal	Single	6.4	1
+43	41837	18127	666	Self-employed	Master	Own	Home	Married	13.1	0
+42	102123	16064	752	Salaried	PhD	Mortgage	Personal	Married	10	0
+31	38543	10679	651	Salaried	Bachelor	Own	Auto	Single	3.4	0
+47	31936	13144	640	Self-employed	PhD	Rent	Auto	Married	10.5	0
+27	52845	16408	761	Salaried	Bachelor	Own	Auto	Single	0	0
+61	75506	18817	659	Contract	High School	Mortgage	Auto	Single	3.2	0
+58	62440	23443	757	Salaried	High School	Rent	Auto	Divorced	2.9	0
+26	48736	27728	710	Contract	Master	Rent	Education	Married	7.4	1
+55	48145	15351	656	Salaried	Bachelor	Mortgage	Education	Married	6	1
+26	47192	13895	714	Unemployed	Bachelor	Rent	Home	Married	6.3	0
+52	43012	21939	702	Self-employed	Bachelor	Mortgage	Education	Single	6.1	1
+24	122041	23498	751	Salaried	Bachelor	Rent	Education	Married	7.1	0
+42	72438	14092	642	Salaried	Bachelor	Mortgage	Auto	Married	9.7	0
+49	87169	25114	683	Salaried	Master	Mortgage	Business	Single	7.7	0
+53	52773	26816	676	Self-employed	Bachelor	Mortgage	Home	Single	5.6	1
+39	60351	29625	729	Contract	Master	Own	Education	Married	9	0
+61	47161	34005	608	Salaried	Bachelor	Mortgage	Home	Married	11.1	0
+55	18000	10202	751	Salaried	PhD	Mortgage	Business	Single	4.2	0
+30	30550	18125	713	Self-employed	High School	Rent	Personal	Married	6.7	0
+50	19735	18101	588	Salaried	Bachelor	Own	Education	Single	12.8	1
+53	18000	17117	765	Self-employed	High School	Mortgage	Auto	Single	1.5	0
+35	35116	12157	836	Salaried	Bachelor	Own	Personal	Single	16	0
+53	98124	4630	750	Self-employed	Bachelor	Rent	Business	Married	0.3	0
+60	63889	18834	780	Unemployed	Master	Rent	Auto	Single	5.3	0
+56	97264	11085	686	Salaried	Bachelor	Own	Education	Married	2.2	1
+54	75275	18774	564	Salaried	High School	Rent	Personal	Single	17.9	1
+48	84564	10854	551	Salaried	Bachelor	Own	Personal	Married	4.5	1
+32	42478	8103	698	Self-employed	PhD	Rent	Personal	Married	4.5	0
+55	78099	20109		Salaried	Bachelor	Mortgage	Home	Single	5.1	0
+37	83218	19358	616	Unemployed	High School	Rent	Personal	Divorced	7.5	1
+44	50584	23214	676	Self-employed	Bachelor	Rent	Home	Single	5.4	0
+34	78989	37673	723	Salaried	Bachelor	Own	Business	Single	6.3	1
+34	79155	20496	578	Contract	Bachelor	Mortgage	Business	Married	0	1
+27	51261	22366	649	Salaried	Bachelor	Mortgage	Auto	Married	7.3	0
+63	36931	8302	786	Contract	Bachelor	Own	Personal	Single	7.1	0
+27	35397	6418	605	Salaried	Bachelor	Rent	Home	Married	12.2	1
+24	67163	32245	741	Self-employed	Bachelor	Rent	Business	Single	13.5	0
+62	73175	9689	646	Unemployed	High School	Rent	Education	Married	6.1	1
+45	45187	8605	718	Contract	Master	Rent	Education	Married	11.1	0
+40	65665	17648	757	Contract	Bachelor	Rent	Personal	Divorced	1.5	1
+53	79263	17188	732	Salaried	Bachelor	Rent	Business	Married	10.8	0
+37	80455	9877	744	Contract	High School	Own	Auto	Married	4.1	0
+26	103797	15255	599	Self-employed	Bachelor	Rent	Auto	Married	1.1	0
+53	96925	29064	758	Self-employed	Master	Mortgage	Auto	Single	6.1	1
+28	39968	10746	620	Salaried	High School	Own	Education	Single	14	1
+45	107090	5457	698	Salaried	High School	Rent	Auto	Divorced	7.9	0
+62	51726	26483	698	Self-employed	High School	Own	Business	Single	14.5	0
+62	91122	22431	714	Salaried	Bachelor	Mortgage	Education	Married	3.3	0
+36	66700	12415	704	Self-employed	Master	Rent	Personal	Single	12.2	0
+55	54696	3760	621	Contract	Bachelor	Rent	Personal	Married	3.7	0
+47	19808	11298	586	Unemployed	Bachelor	Own	Business	Single	8.1	1
+42	60711	17508	741	Salaried	Master	Rent	Personal	Divorced	8.1	1
+27	26015	28491	693	Unemployed	Master	Mortgage	Business	Married	10.3	0
+37	89182	8671	760	Salaried	High School	Rent	Personal	Single	8.3	0
+49	102920	17239	677	Salaried	High School	Rent	Business	Married	3.3	0
+64	45077	24076	582	Contract	Bachelor	Rent	Personal	Married	11.4	1
+21	72549	2000	748	Salaried	Master	Rent	Business	Single	15.7	0
+52	46865	27304	654	Salaried	Bachelor	Rent	Business	Single	4.1	0
+58	49288	7358	704	Salaried	Bachelor	Rent	Business	Married	0	0
+62	84362	20988	635	Salaried	Master	Own	Auto	Married	9.5	0
+39	64037	20220	795	Contract	Bachelor	Rent	Personal	Single	5.3	0
+26	108491	27761	619	Salaried	Bachelor	Mortgage	Business	Married	6.3	1
+32	52944	22958	656	Salaried	High School	Mortgage	Education	Single	9.8	0
+58	89983	2000	688	Self-employed	Master	Mortgage	Home	Single	4.7	0
+59	67435	10937	604	Salaried	Bachelor	Rent	Business	Married	5.7	0
+49	84894	19244	703	Self-employed	Bachelor	Own	Personal	Single	6.5	0
+26	53821	16245	793	Unemployed	High School	Rent	Auto	Single	14.3	0
+26	63761	22298	646	Self-employed	Master	Mortgage	Personal	Married	7.2	0
+42	62113	25104	708	Contract	Master	Rent	Home	Single	0.8	1
+46	44099	23476	488	Salaried	Bachelor	Rent	Auto	Single	1	1
+22	81552	16072	677	Contract	High School	Rent	Education	Married	7.7	0
+51	81256	2000	658	Salaried	Master	Mortgage	Education	Married	1.4	0
+44	79839	13901	623	Salaried	Master	Mortgage	Business	Married	0	1
+21	103424	21747	756	Self-employed	Bachelor	Mortgage	Auto	Married	10.2	0
+25	101234	8186	657	Salaried	Bachelor	Rent	Home	Married	10.4	1
+40	55626	23681	668	Contract	Master	Own	Education	Single	5.2	0
+52	74326	26176	654	Self-employed	Master	Rent	Education	Married	8.5	1
+57	49410	19142	546	Unemployed	Bachelor	Rent	Business	Single	7.9	1
+39	65584	2000	601	Salaried	Bachelor	Mortgage	Education	Single	10	0
+33	50006	6497	747	Salaried	Bachelor	Rent	Education	Married	10	0
+63	105502	34976	532	Self-employed	Master	Rent	Education	Married	0	1
+41	74092	13081	626	Salaried	Bachelor	Rent	Home	Married	5.8	1
+34	59549	2000	652	Salaried	High School	Rent	Personal	Single	9.6	1
+40	94840	29117	802	Self-employed	High School	Rent	Auto	Single	4.9	0
+21	18000	18120	734	Unemployed	Master	Own	Auto	Married	7.2	0
+34	18000	27944	641	Self-employed	Master	Mortgage	Education	Married	10.8	0
+43	84896	20493	771	Salaried	PhD	Rent	Personal	Married	7.4	0
+61	66512	22127	628	Salaried	Bachelor	Rent	Home	Single	14.5	0
+53	71261	21267	751	Self-employed	Master	Own	Business	Single	12.6	0
+55	31840	24277	585	Salaried	Master	Rent	Auto	Married	6.4	1
+44	64419	38497	755	Salaried	Bachelor	Rent	Education	Married	6	1
+25	115088	26739	652	Salaried	High School	Mortgage	Auto	Single	0	1
+38		3777	608	Salaried	PhD	Own	Business	Single	5.4	1
+64	69243	22020	665		High School	Mortgage	Home	Single	0.2	0
+22	54024	28273	699	Salaried	Bachelor	Rent	Auto	Single	8.1	1
+59	55136	28824	645	Self-employed	Bachelor	Own	Auto	Married	7.8	0
+51	18000	14161	719	Salaried	Bachelor	Own	Business	Single	10.5	0
+33	71441	28485	639	Self-employed	Bachelor	Own	Auto	Married	14	0
+55	86137	26350	723	Salaried	Master	Mortgage	Personal	Married	6.9	1
+57	25610	41153	711	Contract	High School	Own	Personal	Divorced	18.4	0
+22	48465	11250	676	Salaried	Master	Rent	Business	Divorced	8.2	1
+25	36063	13433	649	Salaried	High School	Rent	Education	Single	0.4	1
+50	40866	15245	691	Salaried	Bachelor	Mortgage	Personal	Single	4.2	1
+64	66337	13588	719	Salaried	Master	Rent	Education	Single	5.1	0
+22	18000	9990	824	Salaried	High School	Mortgage	Business	Married	10	1
+50	80357	2000	746	Contract	High School	Own	Business	Single	2.3	0
+27	83846	14088	748	Contract	Master	Mortgage	Education	Single	5.5	0
+49	58722	21324	850	Salaried	High School	Own	Auto	Single	6.2	0
+48	18000	13561	716	Salaried	High School	Own	Business	Single	4.8	0
+24	40090	35418	714	Self-employed	Bachelor	Mortgage	Home	Married	11.1	0
+50	95823	18120	729	Self-employed	Master	Own	Personal	Married	10.2	0
+60	18000	29619	609	Salaried	Bachelor	Own	Business	Married	12.8	0
+58	56312	20353	649	Self-employed	Bachelor	Rent	Business	Divorced	5.3	1
+22	35500	25438	645	Salaried	PhD	Rent	Home	Single	13	0
+31	85114	20513	725	Self-employed	Bachelor	Own	Personal	Single	0.2	1
+31	48122	30319	668	Salaried	Bachelor	Rent	Personal	Single	0.1	1
+40	75099	18503	690	Salaried	Bachelor	Mortgage	Home	Married	0.9	0
+27	79137	22465	756	Salaried	Bachelor	Mortgage	Personal	Married	7	1
+58	110906	21297	740	Self-employed	Bachelor	Own	Personal	Single	13	0
+55	59926	15405	669	Salaried	Bachelor	Rent	Business	Divorced	4	0
+56	74401	21645	633	Contract	High School	Mortgage	Home	Single	4.6	0
+29	27874	38109	759	Contract	Bachelor	Own	Business	Single	5.9	0
+21	94760	15566	734	Self-employed	High School	Own	Auto	Married	9.9	0
+61	45987	21775	568	Salaried	Bachelor	Own	Education	Divorced	4.6	0
+33	50981	29320	658	Salaried	High School	Rent	Education	Married	4.3	1
+49	64444	28262	692	Salaried	Bachelor	Own	Personal	Divorced	0.3	0
+61	25928	18105	735	Self-employed	Master	Rent	Business	Single	4.1	0
+22	70719	2000	744	Contract	Bachelor	Mortgage	Education	Married	12.9	0
+21	89187	22650	700	Salaried	High School	Own	Business	Married	7.5	0
+21	72323	2000	721	Contract	High School	Rent	Personal	Married	3.3	0
+27	25278	31229	684	Salaried	Master	Own	Home	Single	13.2	1
+23	61905	19525	633	Salaried	Bachelor	Own	Auto	Divorced	4.1	1
+57	83551	26997	662	Salaried	Master	Mortgage	Business	Single	14.1	0
+47	18050	9881	681		Bachelor	Rent	Home	Single	14	1
+64	38131	4027	678	Salaried	High School	Mortgage	Home	Married	7.3	0
+56	86914	20347	548	Salaried	Master	Rent	Home	Divorced	0	1
+63	71752	17698	652	Contract	Bachelor	Own	Auto	Divorced	18.4	0
+31	75299	13576	684	Salaried	High School	Rent	Home	Married	8.9	0
+33	111487	18762	660	Salaried	PhD	Own	Business	Single	5.4	0
+58	76714	42907	663	Salaried	High School	Mortgage	Home	Divorced	11.8	1
+31	81447	25511	714	Salaried	Bachelor	Rent	Home	Married	10.5	0
+23	132769	27445	604	Salaried	Bachelor	Rent	Education	Married	13.6	0
+50	59655	25595			Bachelor	Rent	Personal	Single	3.7	1
+56	45053	31315	656	Self-employed	Master	Rent	Business	Married	8.6	1
+63	75695	16289	733	Salaried	High School	Mortgage	Education	Married	1.1	0
+61	75975	2000	798	Self-employed	Master	Own	Auto	Married	10.3	0
+26	51832	16303	735	Salaried	Bachelor	Own	Personal	Single	6.9	0
+54	39190	25306	577	Salaried	PhD	Own	Personal	Single	8.4	0
+58	122746	9272	664	Salaried	Master	Rent	Home	Married	6.3	0
+51	73171	16413	698	Salaried	Master	Rent	Business	Single	5.7	0
+57	46693	11774	692	Salaried	Bachelor	Own	Business	Married	2.7	0
+57	87898	31518	718	Salaried	Bachelor	Rent	Personal	Single	11	1
+40	62271	24745	616	Contract	Bachelor	Rent	Auto	Married	14.4	0
+22	58678	23864	685	Contract	Bachelor	Own	Education	Single	4.2	0
+41	79057	23594	709	Salaried	Bachelor	Mortgage	Business	Single	9.8	0
+29	32703	17665	738	Self-employed	Master	Rent	Business	Married	9.2	0
+26	73816	19778	624	Self-employed	High School	Rent	Auto	Single	7	1
+26	112824	7333	656	Contract	Master	Rent	Personal	Single	0	1
+51	76654	2000	491	Salaried	High School	Rent	Education	Single	0.5	1
+43	55595	19351	636	Salaried	Master	Mortgage	Personal	Single	3.1	1
+44	52322	20916	643	Salaried	High School	Rent	Home	Married	0	0
+53	54742	28883	609	Salaried	High School	Rent	Business	Single	14	1
+45	58651	32142	692	Salaried	Master	Mortgage	Auto	Single	8.8	0
+48	55555	32130	676	Contract	Master	Mortgage	Auto	Married	6.9	0
+24	87908	9018	522	Contract	Master	Mortgage	Home	Married	0	0
+58	21670	14830	695	Salaried	PhD	Own	Auto	Married	0	0
+40	86550	22323	615	Salaried	Bachelor	Own	Home	Single	7	0
+27	55508	40787	714	Salaried	Master	Rent	Business	Divorced	16.9	0
+56	74424	31321	590	Salaried	Bachelor	Rent	Personal	Single	3.5	0
+53	36825	28075	682	Self-employed	Bachelor	Rent	Auto	Single	11.3	0
+23	98216	14510	660	Salaried	Bachelor	Mortgage	Business	Divorced	4.6	0
+29	96141	10051	701	Contract	High School	Own	Business	Married	7.3	0
+21	88990	25100	689	Unemployed	Bachelor	Own	Home	Married	13.1	0
+32	27131	8094	662	Self-employed	Master	Rent	Home	Married	5.3	0
+25	85728	15854	572	Self-employed	High School	Own	Education	Single	3.5	0
+52	75121	16967	577	Salaried	Master	Rent	Home	Married	14.1	1
+43	24868	32336	639	Salaried	Bachelor	Rent	Auto	Married	7.2	0
+64	64393	14808	679	Salaried	High School	Rent	Auto	Single	12.5	1
+53	74113	2000	637	Self-employed	Bachelor	Rent	Auto	Single	3.6	0
+47	78902	22540	724	Salaried	High School	Rent	Home	Single	14	0
+43	69432	11709	660	Contract	High School	Rent	Business	Divorced	8.4	0
+23	72281	18384	612	Salaried	Bachelor	Own	Business	Single	9.2	1
+24	101840	17220	661	Salaried	High School	Rent	Auto	Single	7.7	1
+48	95651	15537	696	Salaried	High School	Rent	Home	Married	4.5	0
+21	18000	25113	703	Unemployed	Master	Own	Education	Married	7	0
+22	57064	4204	811	Salaried	High School	Rent	Personal	Single	4.8	0
+30	60884	13347	633	Salaried	Master	Mortgage	Personal	Married	11.8	0
+59	21198	24156	675	Salaried	Master	Own	Education	Married	6	1
+41	67355	12473	710	Self-employed	High School	Rent	Business	Married	0	0
+52	96219	3521	678	Unemployed	Bachelor	Mortgage	Business	Single	0	0
+39	37836	24017	645	Salaried	High School	Mortgage	Auto	Single	0	1
+28	73410	28108	572	Contract	Bachelor	Rent	Education	Married	10.1	1
+37	42104	17595	644	Salaried	High School	Rent	Auto	Single	1.2	1
+25	48202	2000	605	Self-employed	Master	Mortgage	Home	Married	8.5	0
+54	101935	24354	559	Salaried	High School	Rent	Auto	Single	7.7	0
+29	51436	3061	624	Salaried	Bachelor	Own	Home	Married	6.7	0
+37	76555	20779	607	Self-employed	High School	Own	Home	Married	9.2	0
+64	18220	10013	721	Salaried	High School	Mortgage	Auto	Married	7.8	0
+47	111558	7561	722	Salaried	Bachelor	Rent	Auto	Divorced	0	0
+41	80066	14023	617	Contract	Bachelor	Own	Business	Divorced	5.4	0
+44	60438	16350	662	Unemployed	PhD	Rent	Auto	Married	9.1	0
+55	79389	12202	550	Salaried	High School	Mortgage	Business	Single	15.2	0
+32	29755	23298	645	Self-employed	High School	Rent	Business	Married	15.4	0
+49	94563	13985	708	Contract	Bachelor	Mortgage	Education	Divorced	0.2	0
+59	56900	26822	738	Salaried	Bachelor	Rent	Business	Divorced	5.3	0
+46	59898	20531	630	Contract	Master	Mortgage	Auto	Married	0	1
+40	52709	11722	754	Salaried	Master	Mortgage	Auto	Single	14.6	0
+27	50484	10207	574	Contract	Master	Own	Home	Divorced	12.1	0
+31	82367	3173	593	Salaried	High School	Rent	Education	Divorced	8.8	0
+62	71398	20617	730	Salaried	Bachelor	Own	Auto	Married	7.8	0
+44	81294	14809	797	Salaried	Master	Mortgage	Education	Married	13.9	0
+34	64780	2000	715	Salaried	Bachelor	Own	Auto	Married	13.1	0
+39	77830	13179	677	Contract	Bachelor	Rent	Home	Divorced	12.8	1
+46	54529	9891	526	Unemployed	High School	Mortgage	Education	Single	9.3	1
+44	120743	32181	538	Salaried	Bachelor	Own	Personal	Married	5.3	1
+51	25802	2675	689	Salaried	Master	Mortgage	Personal	Single	10.8	0
+32	96523	5028	655	Salaried	Bachelor	Own	Business	Single	11.1	0
+49	99198	27990	603	Salaried	PhD	Rent	Business	Single	6	0
+40	43696	30211	685	Salaried	Bachelor	Rent	Business	Married	5.2	0
+62	120732	11295	688	Contract	High School	Rent	Home	Single	12.7	1
+27	89887	12311	746	Contract	Bachelor	Rent	Personal	Divorced	15.3	0
+27	89278	23546	690	Salaried	High School	Mortgage	Education	Married	3.3	0
+41	65701	2000	766	Salaried	Bachelor	Rent	Education	Married	5.7	0
+43	59569	2000	681	Self-employed	High School	Rent	Education	Single	8.8	0
+51	59765	15473	672	Salaried	Bachelor	Mortgage	Auto	Single	9.4	0
+38	74763	31949	755	Salaried	Master	Mortgage	Home	Married	4.4	0
+61	100030	14078	612	Salaried	Bachelor	Own	Auto	Married	16.4	0
+41	69533	18908	850	Salaried	High School	Mortgage	Home	Married	9.1	0
+26	42214	28204	706	Salaried	Bachelor	Own	Auto	Married	9.7	1
+26	85611	36962	707	Self-employed	Master	Rent	Personal	Married	15.8	0
+63	88029	12808	717	Salaried		Rent	Home	Married	4.8	0
+26	81366	17848	811	Self-employed	High School	Mortgage	Home	Divorced	6.6	1
+62	83637	34398	735	Salaried	Bachelor	Own	Business	Married	0.7	0
+33	58227	4300	568	Contract	Bachelor	Own	Personal	Married	6.1	1
+25	41775	27248	778	Salaried	Bachelor	Mortgage	Education	Single	0	0
+34	43295	8835	656	Salaried	High School	Own	Business	Single	10.7	0
+48		18922	688	Salaried	PhD	Rent	Education	Single	9.1	1
+39	70924	15816		Salaried	High School	Rent	Business	Married	5.6	1
+55	62914	9378	717	Salaried	High School	Rent	Home	Married	6.5	0
+47	54000	9152	634	Self-employed	High School	Own	Personal	Single	10.8	1
+38	18000	20488	687	Salaried	Bachelor	Rent	Home	Married	1.3	1
+48	33817	26960	660	Salaried	Bachelor	Mortgage	Home	Single	8	1
+63	93021	16832	815	Salaried	High School	Rent	Auto	Single	10.5	0
+39	48384	18631	819	Contract	Bachelor	Own	Home	Divorced	0	0
+27	74015	23141	683	Contract	Bachelor	Own	Auto	Single	10.4	0
+38	30233	9255	684	Self-employed	Bachelor	Rent	Education	Single	0	0
+57	100968	24657	654	Self-employed	Master	Mortgage	Home	Married	6.4	0
+30	61399	25374	757	Self-employed	Bachelor	Rent	Business	Single	1.2	0
+62	72251	41433		Self-employed	High School	Own	Business	Married	14.2	1
+46	123144	14615	651	Salaried	PhD	Rent	Business	Divorced	1.2	0
+47	102911	13877	749	Self-employed	Master	Own	Home	Married	0	0
+34	57336	24921	642	Contract	Bachelor	Own	Education	Married	7.7	1
+61	50169	25372	677	Salaried	Master	Mortgage	Education	Single	4.9	0
+22	56861	13184	569	Self-employed	Bachelor	Rent	Education	Married	0	1
+34	77747	14372	729	Salaried	Bachelor	Own	Auto	Single	9.6	0
+39		22870	816	Salaried	Master	Rent	Auto	Single	0	0
+42	55119	10552	730	Salaried	Master	Own	Auto	Married	1.8	0
+41	101680	14305	782	Self-employed	Bachelor	Own	Education	Married	4.1	0
+27	62145	18806		Contract	Bachelor	Rent	Business	Married	11	0
+30	122490	26963	697	Salaried	Bachelor	Rent	Business	Single	13.5	1
+25	67269	12559	614	Salaried	High School	Rent	Education	Married	12.5	0
+46	109633	2000	664	Salaried	PhD	Mortgage	Education	Single	6.2	0
+36	73933	2000	734	Salaried	Bachelor	Own	Auto	Single	0	0
+45	89074	6665	687	Unemployed	Bachelor	Mortgage	Education	Married	9	0
+46	46885	6181	581	Salaried	Bachelor	Rent	Business	Married	14.4	1
+51	43656	16609	588	Salaried	Bachelor	Own	Auto	Divorced	13.2	1
+45	76493	7300	583	Salaried	Bachelor	Mortgage	Home	Single	9.3	0
+49	89714	11675	714	Unemployed	PhD	Own	Home	Married	1.1	1
+46	66006	11033	824	Salaried	Bachelor	Rent	Home	Divorced	4.4	0
+49	32840	14035	775	Self-employed	Bachelor	Rent	Education	Married	16.7	0
+48	30994	29903	547	Salaried	Bachelor	Own	Education	Married	0	0
+34	29322	23958	779	Salaried	Bachelor	Mortgage	Business	Single	1.3	0
+31	20809	18145	746	Self-employed	High School	Own	Business	Married	11.7	1
+55	67737	13851	572	Salaried	Bachelor	Mortgage	Home	Divorced	4.8	0
+36	93126	14101	659	Self-employed	High School	Own	Business	Married	1.1	0
+45	64665	20950	757	Salaried	Bachelor	Own	Auto	Divorced	14.6	0
+29	18000	23258		Self-employed	Master	Rent	Education	Married	9.3	1
+39	60231	9831	588	Self-employed	Bachelor	Mortgage	Auto	Married	5.1	0
+44	60930	18328	723	Self-employed	Bachelor	Own	Auto	Single	1.3	1
+48	117400	2000	530	Salaried	Bachelor	Mortgage	Home	Married	17.2	0
+44	28572	19905	664	Self-employed	High School	Own	Business	Married	6.9	1
+36	55233	24859	760	Unemployed	Master	Rent	Home	Married	14	0
+63	107646	15479	681	Salaried	Bachelor	Rent	Home	Single	11.5	0
+43	76249	34349	645	Salaried	High School	Own	Education	Married	4.4	1
